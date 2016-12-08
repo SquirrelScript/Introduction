@@ -1,6 +1,6 @@
 # Introduction
 
-## Welcome to SquirrelScipt, the Javascript learning Meetup
+## Welcome to SquirrelScript, the Javascript learning Meetup
 
 ## Some simple rules
 
