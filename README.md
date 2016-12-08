@@ -13,4 +13,10 @@
 7. Please be prepared to help others
 8. Please share you code here!
 
+## What you will need
+
+1.  A willingness to learn through failing!
+2.  A laptop which can access the internet
+3.  A github account
+
 ```
